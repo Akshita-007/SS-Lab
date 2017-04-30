@@ -1,0 +1,10 @@
+int
+float
+78f
+90gh
+a
+d
+are case
+default
+printf
+scanf
